@@ -5,6 +5,7 @@
 
 主要参照库为http://sigslot.sourceforge.net/。
 
-
-
+信号与槽机制的实现是为了解耦，使用c++组合继承
+可以实现但功能越多复杂度越高。
+查询资料后，C++11之后std::function，std::bind也可以实现信号与槽机制。
 
