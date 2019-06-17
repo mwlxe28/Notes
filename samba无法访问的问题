@@ -1,4 +1,4 @@
-force users = admin 强制将登陆samba后的用户改为admin，和ubuntu的登陆用户一致，这样就不会产生权限问题。
+force users = z 强制将登陆samba后的用户改为z，和ubuntu的登陆用户一致，这样就不会产生权限问题。
 
 官方说明：
 force user (S)：
