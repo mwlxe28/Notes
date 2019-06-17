@@ -3,8 +3,4 @@ force users = admin 强制将登陆samba后的用户改为admin，和ubuntu的�
 官方说明：
 force user (S)：
 This specifies a UNIX user name that will be assigned as the default user for all users connecting to this service. This is useful for sharing files. You should also use it carefully as using it incorrectly can cause security problems.
---------------------- 
-作者：yanjiee 
-来源：CSDN 
-原文：https://blog.csdn.net/yanjiee/article/details/84034176 
-版权声明：本文为博主原创文章，转载请附上博文链接！
+
