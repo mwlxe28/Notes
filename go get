@@ -1,0 +1,4 @@
+go get可能失败
+使用goproxy
+$ go env -w GO111MODULE=on
+$ go env -w GOPROXY=https://goproxy.cn,direct
